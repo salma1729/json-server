@@ -1,0 +1,17 @@
+{
+    "tasks":[
+        {
+            "title" : "Leetcode Daily Challenge",
+            "description":"Complete todas daily challenge",
+            "duedate": "29th july 2023",
+            "priority": "High"
+        },
+        {
+            "title" : "Codechef Problems",
+            "description":"Solve atleast 3 problems",
+            "duedate": "29th july 2023",
+            "priority": "Medium"
+        }
+
+    ]
+}
