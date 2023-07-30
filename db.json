@@ -13,14 +13,14 @@
             "duedate": "29th july 2023",
             "priority": "Medium",
             "id" : 2
-        }
+        },
         {
             "title" : "Tree Problems",
             "description":"Solve atleast 5 problems",
             "duedate": "29th july 2023",
             "priority": "Medium",
             "id" : 3
-        }
+        },
         {
             "title" : "Complete Spring Boot Project",
             "description":"Need to complete the Campus Calender project within two weeks",
